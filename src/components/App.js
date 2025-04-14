@@ -3,7 +3,7 @@ import React from "react";
 function NavBar() {
   return (
     <nav>
-      <a href="#home">I'm a link!</a>
+      <a href="#home">Click Me!</a>
     </nav>
   );
 }
@@ -16,7 +16,7 @@ function Home() {
   );
 }
 
-// ✅ Added About component
+
 function About() {
   return (
     <div id="about">
